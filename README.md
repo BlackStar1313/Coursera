@@ -21,7 +21,7 @@ lireetdire.cc -> 40/40 points
 date_paques.cc -> 50/50 points  
 mastermind.cc -> 55/85 points  
 
-Semaine 5 : pas de série notée  
+Semaine 5 : pas de séries notées  
 
 Semaine 6 :  
 cesar.cc -> 35/35 points  
