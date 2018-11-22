@@ -4,8 +4,9 @@ Etant étudiant à l'université de Fribourg, j'ai fait ces séries notées pend
 
 Il y a au total 5 séries notées.  
 
-Semaine 1 :  
-swap3.cc -> 50/50 points  
+Semaine 1 : 
+hello_world.cc -> 20/20 points  
+swap3.cc -> 30/30 points  
 
 Semaine 2 :  
 location_velos.cc -> 40/40 points  
