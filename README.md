@@ -1,6 +1,6 @@
 # Coursera - Initiation à la programmation (en C++)
 Série notée des cours MOOC EPFL d’introduction à la programmation en C++.  
-Etant étudiant à l'université de Fribourg, j'ai fait ces séries notées pendant mon temps libre.  
+Etant étudiant à l'université de Fribourg, j'ai fait ces séries notées pendant mon temps libre dans le but d'aider ceux et celles qui seraient bloquées à une série.  
 
 Il y a au total 5 séries notées.  
 
