@@ -4,7 +4,7 @@ Etant étudiant à l'université de Fribourg, j'ai fait ces séries notées pend
 
 Il y a au total 5 séries notées.  
 
-Semaine 1 : 
+Semaine 1 :  
 hello_world.cc -> 20/20 points  
 swap3.cc -> 30/30 points  
 
